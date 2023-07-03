@@ -25,10 +25,6 @@
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=XZNX5&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=c9d1d9&bg_color=0d1117" alt="! XZNX 5 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XZNX5&layout=compact&hide_border=true&title_color=B22222&text_color=B22222&bg_color=0d1117" />
-</div>
 
 
 
@@ -40,7 +36,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=XZNX5&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+</div>
 
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+
+ 
+</div>
+
+ 
+
+![Alt Text](https://images.unsplash.com/photo-1580655653885-65763b2597d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TG9zJTIwQW5nZWxlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60)
+![Alt Text](https://images.unsplash.com/photo-1512679459986-789f602cc824?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bG9zJTIwYW5nZWxlcyUyMG5pZ2h0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60)
+
+
+
+
+
+https://pnrtscr.com/fep8be
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
 
