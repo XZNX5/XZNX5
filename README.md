@@ -21,10 +21,14 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 
 ### I'm in the area of:
+![Software Developer](https://img.shields.io/badge/-Software%20Developer-B22222?style=for-the-badge&labelColor=0D1117)
 ![gaming hacking](https://img.shields.io/badge/-gaming%20hacking-B22222?style=for-the-badge&labelColor=0D1117)
 
 
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=XZNX5&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XZNX5&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
+</div>
 
 
 
@@ -45,14 +49,22 @@
 
  
 
-![Alt Text](https://images.unsplash.com/photo-1580655653885-65763b2597d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TG9zJTIwQW5nZWxlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60)
+
+
+<img width="300" alt="Patolino no PC" src="https://user-images.githubusercontent.com/94485093/195425152-72354df8-9b90-4ebf-aa6f-e9e6be0cdf32.gif" />
 
 
 
 
+[don't click](https://pnrtscr.com/fep8be)
 
 
-https://pnrtscr.com/fep8be
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{XZNX5}/count.svg" /></p> 
+<br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
 
